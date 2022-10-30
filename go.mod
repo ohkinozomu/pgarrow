@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/apache/arrow/go/v10 v10.0.0-20220918004518-80676df0ed1d
 	github.com/georgysavva/scany v1.2.0
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.9
 	github.com/jackc/pgx/v4 v4.17.2
 	github.com/orlangure/gnomock v0.21.1
 )
